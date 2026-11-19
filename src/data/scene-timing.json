@@ -1,0 +1,851 @@
+{
+ "audioSeconds": 629.323,
+ "method": "pocketsphinx word alignment (87% words matched; others interpolated)",
+ "scenes": [
+  {
+   "scene": 1,
+   "firstWords": "Imagine you're floating in cold,",
+   "wordStart": 0,
+   "wordEnd": 74,
+   "speechStart": 0.05,
+   "speechEnd": 25.55,
+   "sentences": [
+    {
+     "start": 0.05,
+     "end": 3.99
+    },
+    {
+     "start": 4.51,
+     "end": 5.73
+    },
+    {
+     "start": 6.2,
+     "end": 7.87
+    },
+    {
+     "start": 8.33,
+     "end": 10.88
+    },
+    {
+     "start": 11.235,
+     "end": 12.95
+    },
+    {
+     "start": 12.98,
+     "end": 16.7
+    },
+    {
+     "start": 16.955,
+     "end": 18.22
+    },
+    {
+     "start": 19.01,
+     "end": 25.55
+    }
+   ],
+   "start": 0.0,
+   "end": 26.25,
+   "duration": 26.25
+  },
+  {
+   "scene": 2,
+   "firstWords": "This is the basking shark,",
+   "wordStart": 75,
+   "wordEnd": 149,
+   "speechStart": 26.37,
+   "speechEnd": 48.44,
+   "sentences": [
+    {
+     "start": 26.37,
+     "end": 29.84
+    },
+    {
+     "start": 29.91,
+     "end": 31.64
+    },
+    {
+     "start": 31.88,
+     "end": 33.585
+    },
+    {
+     "start": 33.82,
+     "end": 37.15
+    },
+    {
+     "start": 37.67,
+     "end": 38.51
+    },
+    {
+     "start": 38.96,
+     "end": 42.12
+    },
+    {
+     "start": 42.67,
+     "end": 48.44
+    }
+   ],
+   "start": 26.25,
+   "end": 48.88,
+   "duration": 22.63
+  },
+  {
+   "scene": 3,
+   "firstWords": "The basking shark has three",
+   "wordStart": 150,
+   "wordEnd": 196,
+   "speechStart": 49.0,
+   "speechEnd": 66.89,
+   "sentences": [
+    {
+     "start": 49.0,
+     "end": 51.75
+    },
+    {
+     "start": 52.18,
+     "end": 55.85
+    },
+    {
+     "start": 56.65,
+     "end": 59.19
+    },
+    {
+     "start": 59.72,
+     "end": 64.91
+    },
+    {
+     "start": 65.49,
+     "end": 66.89
+    }
+   ],
+   "start": 48.88,
+   "end": 67.46,
+   "duration": 18.58
+  },
+  {
+   "scene": 4,
+   "firstWords": "In September, eighteen oh eight,",
+   "wordStart": 197,
+   "wordEnd": 285,
+   "speechStart": 67.58,
+   "speechEnd": 101.92,
+   "sentences": [
+    {
+     "start": 67.58,
+     "end": 74.26
+    },
+    {
+     "start": 74.695,
+     "end": 79.59
+    },
+    {
+     "start": 80.22,
+     "end": 82.58
+    },
+    {
+     "start": 83.07,
+     "end": 87.39
+    },
+    {
+     "start": 87.505,
+     "end": 90.82
+    },
+    {
+     "start": 91.33,
+     "end": 93.73
+    },
+    {
+     "start": 93.89,
+     "end": 99.22
+    },
+    {
+     "start": 99.97,
+     "end": 101.92
+    }
+   ],
+   "start": 67.46,
+   "end": 102.28,
+   "duration": 34.82
+  },
+  {
+   "scene": 5,
+   "firstWords": "To understand just how large",
+   "wordStart": 286,
+   "wordEnd": 353,
+   "speechStart": 102.4,
+   "speechEnd": 126.81,
+   "sentences": [
+    {
+     "start": 102.4,
+     "end": 107.57
+    },
+    {
+     "start": 108.33,
+     "end": 113.5
+    },
+    {
+     "start": 113.75,
+     "end": 119.94
+    },
+    {
+     "start": 120.21,
+     "end": 121.97
+    },
+    {
+     "start": 122.62,
+     "end": 126.81
+    }
+   ],
+   "start": 102.28,
+   "end": 127.38,
+   "duration": 25.1
+  },
+  {
+   "scene": 6,
+   "firstWords": "Watch one swimming through the",
+   "wordStart": 354,
+   "wordEnd": 426,
+   "speechStart": 127.5,
+   "speechEnd": 152.71,
+   "sentences": [
+    {
+     "start": 127.5,
+     "end": 129.4
+    },
+    {
+     "start": 129.9,
+     "end": 131.75
+    },
+    {
+     "start": 132.24,
+     "end": 135.59
+    },
+    {
+     "start": 136.13,
+     "end": 138.85
+    },
+    {
+     "start": 139.285,
+     "end": 144.99
+    },
+    {
+     "start": 145.06,
+     "end": 148.817
+    },
+    {
+     "start": 149.01,
+     "end": 152.71
+    }
+   ],
+   "start": 127.38,
+   "end": 153.27,
+   "duration": 25.89
+  },
+  {
+   "scene": 7,
+   "firstWords": "Inside the mouth and gill",
+   "wordStart": 427,
+   "wordEnd": 523,
+   "speechStart": 153.39,
+   "speechEnd": 190.6,
+   "sentences": [
+    {
+     "start": 153.39,
+     "end": 157.393
+    },
+    {
+     "start": 157.54,
+     "end": 159.85
+    },
+    {
+     "start": 160.13,
+     "end": 165.79
+    },
+    {
+     "start": 166.5,
+     "end": 172.355
+    },
+    {
+     "start": 172.7,
+     "end": 173.78
+    },
+    {
+     "start": 173.79,
+     "end": 176.03
+    },
+    {
+     "start": 176.64,
+     "end": 180.25
+    },
+    {
+     "start": 180.87,
+     "end": 183.76
+    },
+    {
+     "start": 184.3,
+     "end": 187.78
+    },
+    {
+     "start": 188.3,
+     "end": 190.6
+    }
+   ],
+   "start": 153.27,
+   "end": 191.28,
+   "duration": 38.01
+  },
+  {
+   "scene": 8,
+   "firstWords": "Now look inside its mouth.",
+   "wordStart": 524,
+   "wordEnd": 583,
+   "speechStart": 191.4,
+   "speechEnd": 214.03,
+   "sentences": [
+    {
+     "start": 191.4,
+     "end": 192.91
+    },
+    {
+     "start": 193.41,
+     "end": 197.05
+    },
+    {
+     "start": 197.62,
+     "end": 200.9
+    },
+    {
+     "start": 201.45,
+     "end": 203.7
+    },
+    {
+     "start": 203.78,
+     "end": 210.17
+    },
+    {
+     "start": 210.9,
+     "end": 214.03
+    }
+   ],
+   "start": 191.28,
+   "end": 214.62,
+   "duration": 23.34
+  },
+  {
+   "scene": 9,
+   "firstWords": "But harmless doesn't mean completely",
+   "wordStart": 584,
+   "wordEnd": 665,
+   "speechStart": 214.74,
+   "speechEnd": 244.15,
+   "sentences": [
+    {
+     "start": 214.74,
+     "end": 217.38
+    },
+    {
+     "start": 218.12,
+     "end": 225.04
+    },
+    {
+     "start": 225.73,
+     "end": 233.17
+    },
+    {
+     "start": 233.21,
+     "end": 238.71
+    },
+    {
+     "start": 239.33,
+     "end": 244.15
+    }
+   ],
+   "start": 214.62,
+   "end": 244.57,
+   "duration": 29.95
+  },
+  {
+   "scene": 10,
+   "firstWords": "So, if the shark is",
+   "wordStart": 666,
+   "wordEnd": 731,
+   "speechStart": 244.69,
+   "speechEnd": 270.6,
+   "sentences": [
+    {
+     "start": 244.69,
+     "end": 249.03
+    },
+    {
+     "start": 249.99,
+     "end": 251.8
+    },
+    {
+     "start": 252.18,
+     "end": 256.32
+    },
+    {
+     "start": 256.66,
+     "end": 257.95
+    },
+    {
+     "start": 258.3,
+     "end": 260.08
+    },
+    {
+     "start": 260.15,
+     "end": 266.15
+    },
+    {
+     "start": 266.3,
+     "end": 270.6
+    }
+   ],
+   "start": 244.57,
+   "end": 271.11,
+   "duration": 26.54
+  },
+  {
+   "scene": 11,
+   "firstWords": "Plankton behaves differently. It drifts",
+   "wordStart": 732,
+   "wordEnd": 803,
+   "speechStart": 271.23,
+   "speechEnd": 302.23,
+   "sentences": [
+    {
+     "start": 271.23,
+     "end": 272.84
+    },
+    {
+     "start": 273.16,
+     "end": 279.31
+    },
+    {
+     "start": 280.0,
+     "end": 282.42
+    },
+    {
+     "start": 283.0,
+     "end": 291.56
+    },
+    {
+     "start": 291.63,
+     "end": 294.52
+    },
+    {
+     "start": 295.23,
+     "end": 302.23
+    }
+   ],
+   "start": 271.11,
+   "end": 302.42,
+   "duration": 31.31
+  },
+  {
+   "scene": 12,
+   "firstWords": "Think about the trade-off. A",
+   "wordStart": 804,
+   "wordEnd": 872,
+   "speechStart": 302.54,
+   "speechEnd": 328.93,
+   "sentences": [
+    {
+     "start": 302.54,
+     "end": 303.75
+    },
+    {
+     "start": 304.39,
+     "end": 309.72
+    },
+    {
+     "start": 310.41,
+     "end": 312.59
+    },
+    {
+     "start": 313.11,
+     "end": 318.1
+    },
+    {
+     "start": 318.66,
+     "end": 321.09
+    },
+    {
+     "start": 321.13,
+     "end": 323.11
+    },
+    {
+     "start": 323.62,
+     "end": 328.93
+    }
+   ],
+   "start": 302.42,
+   "end": 329.26,
+   "duration": 26.84
+  },
+  {
+   "scene": 13,
+   "firstWords": "But there's another mystery. Around",
+   "wordStart": 873,
+   "wordEnd": 935,
+   "speechStart": 329.38,
+   "speechEnd": 352.54,
+   "sentences": [
+    {
+     "start": 329.38,
+     "end": 330.55
+    },
+    {
+     "start": 331.28,
+     "end": 337.39
+    },
+    {
+     "start": 337.94,
+     "end": 341.085
+    },
+    {
+     "start": 341.35,
+     "end": 345.84
+    },
+    {
+     "start": 346.097,
+     "end": 349.43
+    },
+    {
+     "start": 350.09,
+     "end": 352.54
+    }
+   ],
+   "start": 329.26,
+   "end": 353.12,
+   "duration": 23.86
+  },
+  {
+   "scene": 14,
+   "firstWords": "In the nineteen fifties, scientists",
+   "wordStart": 936,
+   "wordEnd": 1003,
+   "speechStart": 353.24,
+   "speechEnd": 381.16,
+   "sentences": [
+    {
+     "start": 353.24,
+     "end": 358.04
+    },
+    {
+     "start": 358.64,
+     "end": 365.27
+    },
+    {
+     "start": 365.76,
+     "end": 366.91
+    },
+    {
+     "start": 367.37,
+     "end": 372.27
+    },
+    {
+     "start": 372.87,
+     "end": 375.35
+    },
+    {
+     "start": 375.87,
+     "end": 378.6
+    },
+    {
+     "start": 379.03,
+     "end": 381.16
+    }
+   ],
+   "start": 353.12,
+   "end": 381.19,
+   "duration": 28.07
+  },
+  {
+   "scene": 15,
+   "firstWords": "Scientists began attaching electronic tags",
+   "wordStart": 1004,
+   "wordEnd": 1080,
+   "speechStart": 381.22,
+   "speechEnd": 415.29,
+   "sentences": [
+    {
+     "start": 381.22,
+     "end": 386.32
+    },
+    {
+     "start": 386.95,
+     "end": 390.34
+    },
+    {
+     "start": 391.03,
+     "end": 398.0
+    },
+    {
+     "start": 398.37,
+     "end": 402.62
+    },
+    {
+     "start": 402.87,
+     "end": 407.87
+    },
+    {
+     "start": 408.57,
+     "end": 410.81
+    },
+    {
+     "start": 410.89,
+     "end": 415.29
+    }
+   ],
+   "start": 381.19,
+   "end": 415.81,
+   "duration": 34.62
+  },
+  {
+   "scene": 16,
+   "firstWords": "Imagine following a buffet that",
+   "wordStart": 1081,
+   "wordEnd": 1140,
+   "speechStart": 415.93,
+   "speechEnd": 437.08,
+   "sentences": [
+    {
+     "start": 415.93,
+     "end": 419.08
+    },
+    {
+     "start": 419.63,
+     "end": 422.07
+    },
+    {
+     "start": 422.55,
+     "end": 426.77
+    },
+    {
+     "start": 427.22,
+     "end": 429.96
+    },
+    {
+     "start": 430.275,
+     "end": 434.46
+    },
+    {
+     "start": 434.85,
+     "end": 437.08
+    }
+   ],
+   "start": 415.81,
+   "end": 437.63,
+   "duration": 21.82
+  },
+  {
+   "scene": 17,
+   "firstWords": "For all their size, basking",
+   "wordStart": 1141,
+   "wordEnd": 1220,
+   "speechStart": 437.75,
+   "speechEnd": 470.49,
+   "sentences": [
+    {
+     "start": 437.75,
+     "end": 443.76
+    },
+    {
+     "start": 444.49,
+     "end": 449.955
+    },
+    {
+     "start": 450.34,
+     "end": 454.99
+    },
+    {
+     "start": 455.68,
+     "end": 458.66
+    },
+    {
+     "start": 459.09,
+     "end": 466.0
+    },
+    {
+     "start": 466.105,
+     "end": 470.49
+    }
+   ],
+   "start": 437.63,
+   "end": 471.01,
+   "duration": 33.38
+  },
+  {
+   "scene": 18,
+   "firstWords": "Basking sharks grow slowly and",
+   "wordStart": 1221,
+   "wordEnd": 1295,
+   "speechStart": 471.13,
+   "speechEnd": 503.61,
+   "sentences": [
+    {
+     "start": 471.13,
+     "end": 474.94
+    },
+    {
+     "start": 475.56,
+     "end": 481.34
+    },
+    {
+     "start": 482.03,
+     "end": 487.83
+    },
+    {
+     "start": 488.137,
+     "end": 492.098
+    },
+    {
+     "start": 492.185,
+     "end": 498.98
+    },
+    {
+     "start": 499.46,
+     "end": 503.61
+    }
+   ],
+   "start": 471.01,
+   "end": 504.2,
+   "duration": 33.19
+  },
+  {
+   "scene": 19,
+   "firstWords": "Now let's return to Stronsay.",
+   "wordStart": 1296,
+   "wordEnd": 1397,
+   "speechStart": 504.32,
+   "speechEnd": 544.94,
+   "sentences": [
+    {
+     "start": 504.32,
+     "end": 506.345
+    },
+    {
+     "start": 506.7,
+     "end": 511.53
+    },
+    {
+     "start": 511.885,
+     "end": 516.44
+    },
+    {
+     "start": 517.04,
+     "end": 520.86
+    },
+    {
+     "start": 521.48,
+     "end": 528.29
+    },
+    {
+     "start": 528.36,
+     "end": 533.24
+    },
+    {
+     "start": 533.96,
+     "end": 542.06
+    },
+    {
+     "start": 542.85,
+     "end": 544.94
+    }
+   ],
+   "start": 504.2,
+   "end": 545.36,
+   "duration": 41.16
+  },
+  {
+   "scene": 20,
+   "firstWords": "And the Stronsay Beast wasn't",
+   "wordStart": 1398,
+   "wordEnd": 1499,
+   "speechStart": 545.48,
+   "speechEnd": 587.88,
+   "sentences": [
+    {
+     "start": 545.48,
+     "end": 550.89
+    },
+    {
+     "start": 551.64,
+     "end": 560.17
+    },
+    {
+     "start": 560.86,
+     "end": 568.16
+    },
+    {
+     "start": 568.76,
+     "end": 575.16
+    },
+    {
+     "start": 575.78,
+     "end": 581.25
+    },
+    {
+     "start": 582.1,
+     "end": 587.88
+    }
+   ],
+   "start": 545.36,
+   "end": 588.53,
+   "duration": 43.17
+  },
+  {
+   "scene": 21,
+   "firstWords": "So, why doesn't the basking",
+   "wordStart": 1500,
+   "wordEnd": 1621,
+   "speechStart": 588.65,
+   "speechEnd": 629.323,
+   "sentences": [
+    {
+     "start": 588.65,
+     "end": 591.33
+    },
+    {
+     "start": 591.9,
+     "end": 593.15
+    },
+    {
+     "start": 593.392,
+     "end": 601.34
+    },
+    {
+     "start": 602.07,
+     "end": 603.6
+    },
+    {
+     "start": 604.1,
+     "end": 607.01
+    },
+    {
+     "start": 607.53,
+     "end": 610.89
+    },
+    {
+     "start": 610.95,
+     "end": 615.83
+    },
+    {
+     "start": 616.57,
+     "end": 618.24
+    },
+    {
+     "start": 618.85,
+     "end": 623.06
+    },
+    {
+     "start": 623.89,
+     "end": 629.323
+    }
+   ],
+   "start": 588.53,
+   "end": 629.323,
+   "duration": 40.793
+  }
+ ]
+}

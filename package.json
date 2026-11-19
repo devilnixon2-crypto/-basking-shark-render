@@ -1,0 +1,40 @@
+{
+  "name": "basking-shark-documentary",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "shots": "node scripts/build-shots.mjs",
+    "check": "node scripts/check-beats.mjs",
+    "prebuild": "node scripts/check-beats.mjs",
+    "prerender": "node scripts/check-beats.mjs",
+    "preview": "remotion studio",
+    "render:preview": "npm run prerender && remotion render BaskingShark out/basking-shark-preview.mp4 --scale=0.5",
+    "render": "npm run prerender && remotion render BaskingShark out/basking-shark.mp4",
+    "contact": "node scripts/contact-sheet.mjs",
+    "typecheck": "tsc --noEmit",
+    "smoke": "node scripts/smoke-test.mjs",
+    "align": "python3 scripts/align_audio.py public/narration.mp3 narration.txt && node scripts/build-shots.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.545",
+    "@remotion/cli": "4.0.545",
+    "@remotion/google-fonts": "4.0.545",
+    "@remotion/media-utils": "4.0.545",
+    "@remotion/renderer": "4.0.545",
+    "d3-geo": "^3.1.2",
+    "react": "^19.3.1",
+    "remotion": "4.0.545",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2"
+  }
+}
