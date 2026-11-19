@@ -1,0 +1,44 @@
+﻿name: Basking Shark Render Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate project
+        run: |
+          npm run check
+          npm run typecheck
+
+      - name: Install Remotion browser
+        run: npx remotion browser ensure
+
+      - name: Render 300-frame test
+        run: npx remotion render BaskingShark out/basking-shark-test.mp4 --frames=0-299 --codec=h264 --concurrency=2
+
+      - name: Upload test video
+        uses: actions/upload-artifact@v4
+        with:
+          name: basking-shark-render-test
+          path: out/basking-shark-test.mp4
+          if-no-files-found: error
+          retention-days: 1
